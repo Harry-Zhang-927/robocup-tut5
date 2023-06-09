@@ -1,0 +1,5 @@
+Symlinking /home/athome23-5/tiago_public_ws/devel/lib/pkgconfig/key_teleop.pc
+Symlinking /home/athome23-5/tiago_public_ws/devel/lib/key_teleop/key_teleop.py
+Symlinking /home/athome23-5/tiago_public_ws/devel/lib/key_teleop/cmake.lock
+Symlinking /home/athome23-5/tiago_public_ws/devel/share/key_teleop/cmake/key_teleopConfig.cmake
+Symlinking /home/athome23-5/tiago_public_ws/devel/share/key_teleop/cmake/key_teleopConfig-version.cmake

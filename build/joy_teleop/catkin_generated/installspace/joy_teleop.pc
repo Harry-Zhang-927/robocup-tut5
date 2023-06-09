@@ -1,0 +1,8 @@
+prefix=/home/athome23-5/tiago_public_ws/install
+
+Name: joy_teleop
+Description: Description of joy_teleop
+Version: 1000.4.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: actionlib teleop_tools_msgs

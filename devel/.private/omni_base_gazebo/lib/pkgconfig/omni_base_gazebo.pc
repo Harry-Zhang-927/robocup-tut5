@@ -1,0 +1,8 @@
+prefix=/home/athome23-5/tiago_public_ws/devel/.private/omni_base_gazebo
+
+Name: omni_base_gazebo
+Description: Description of omni_base_gazebo
+Version: 0.0.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

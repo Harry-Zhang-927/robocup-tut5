@@ -1,0 +1,8 @@
+prefix=/home/athome23-5/tiago_public_ws/install
+
+Name: tiago_rgbd_sensors
+Description: Description of tiago_rgbd_sensors
+Version: 2.1.17
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

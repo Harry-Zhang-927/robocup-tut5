@@ -1,0 +1,1 @@
+/home/athome23-5/tiago_public_ws/devel/.private/controller_manager_msgs/share/roseus/ros/controller_manager_msgs/msg/ControllerState.l

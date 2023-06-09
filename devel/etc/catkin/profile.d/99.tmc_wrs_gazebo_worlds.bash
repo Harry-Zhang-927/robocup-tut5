@@ -1,0 +1,1 @@
+/home/athome23-5/tiago_public_ws/devel/.private/tmc_wrs_gazebo_worlds/etc/catkin/profile.d/99.tmc_wrs_gazebo_worlds.bash

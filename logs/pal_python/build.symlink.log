@@ -1,0 +1,4 @@
+Symlinking /home/athome23-5/tiago_public_ws/devel/lib/python3/dist-packages/pal_python/__init__.py
+Symlinking /home/athome23-5/tiago_public_ws/devel/lib/pkgconfig/pal_python.pc
+Symlinking /home/athome23-5/tiago_public_ws/devel/share/pal_python/cmake/pal_pythonConfig.cmake
+Symlinking /home/athome23-5/tiago_public_ws/devel/share/pal_python/cmake/pal_pythonConfig-version.cmake

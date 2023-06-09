@@ -1,0 +1,8 @@
+prefix=/home/athome23-5/tiago_public_ws/devel/.private/tiago_description
+
+Name: tiago_description
+Description: Description of tiago_description
+Version: 2.3.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

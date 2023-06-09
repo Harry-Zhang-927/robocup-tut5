@@ -1,0 +1,6 @@
+Symlinking /home/athome23-5/tiago_public_ws/devel/lib/libdarknet_ros_nodelet.so
+Symlinking /home/athome23-5/tiago_public_ws/devel/lib/libdarknet_ros_lib.so
+Symlinking /home/athome23-5/tiago_public_ws/devel/lib/pkgconfig/darknet_ros.pc
+Symlinking /home/athome23-5/tiago_public_ws/devel/lib/darknet_ros/darknet_ros
+Symlinking /home/athome23-5/tiago_public_ws/devel/share/darknet_ros/cmake/darknet_rosConfig.cmake
+Symlinking /home/athome23-5/tiago_public_ws/devel/share/darknet_ros/cmake/darknet_rosConfig-version.cmake

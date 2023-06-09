@@ -1,0 +1,1 @@
+/home/athome23-5/tiago_public_ws/devel/.private/pal_control_msgs/share/roseus/ros/pal_control_msgs/msg/MotionManagerActionResult.l

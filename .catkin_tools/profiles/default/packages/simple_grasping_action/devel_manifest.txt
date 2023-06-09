@@ -1,0 +1,6 @@
+simple_grasping_action
+/home/athome23-5/tiago_public_ws/devel/.private/simple_grasping_action/cmake.lock /home/athome23-5/tiago_public_ws/devel/./cmake.lock
+/home/athome23-5/tiago_public_ws/devel/.private/simple_grasping_action/lib/python3/dist-packages/simple_grasping_action/__init__.py /home/athome23-5/tiago_public_ws/devel/lib/python3/dist-packages/simple_grasping_action/__init__.py
+/home/athome23-5/tiago_public_ws/devel/.private/simple_grasping_action/lib/pkgconfig/simple_grasping_action.pc /home/athome23-5/tiago_public_ws/devel/lib/pkgconfig/simple_grasping_action.pc
+/home/athome23-5/tiago_public_ws/devel/.private/simple_grasping_action/share/simple_grasping_action/cmake/simple_grasping_actionConfig-version.cmake /home/athome23-5/tiago_public_ws/devel/share/simple_grasping_action/cmake/simple_grasping_actionConfig-version.cmake
+/home/athome23-5/tiago_public_ws/devel/.private/simple_grasping_action/share/simple_grasping_action/cmake/simple_grasping_actionConfig.cmake /home/athome23-5/tiago_public_ws/devel/share/simple_grasping_action/cmake/simple_grasping_actionConfig.cmake

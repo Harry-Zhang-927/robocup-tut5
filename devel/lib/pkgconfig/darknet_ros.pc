@@ -1,0 +1,1 @@
+/home/athome23-5/tiago_public_ws/devel/.private/darknet_ros/lib/pkgconfig/darknet_ros.pc

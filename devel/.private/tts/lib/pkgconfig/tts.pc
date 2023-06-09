@@ -1,0 +1,8 @@
+prefix=/home/athome23-5/tiago_public_ws/devel/.private/tts
+
+Name: tts
+Description: Description of tts
+Version: 2.0.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

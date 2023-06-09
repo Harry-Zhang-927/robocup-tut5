@@ -1,0 +1,8 @@
+pal_statistics/pal_statistics
+/home/athome23-5/tiago_public_ws/devel/.private/pal_statistics/cmake.lock /home/athome23-5/tiago_public_ws/devel/./cmake.lock
+/home/athome23-5/tiago_public_ws/devel/.private/pal_statistics/lib/libextract_rosbag_signals.so /home/athome23-5/tiago_public_ws/devel/lib/libextract_rosbag_signals.so
+/home/athome23-5/tiago_public_ws/devel/.private/pal_statistics/lib/libpal_statistics.so /home/athome23-5/tiago_public_ws/devel/lib/libpal_statistics.so
+/home/athome23-5/tiago_public_ws/devel/.private/pal_statistics/lib/python3/dist-packages/pal_statistics/__init__.py /home/athome23-5/tiago_public_ws/devel/lib/python3/dist-packages/pal_statistics/__init__.py
+/home/athome23-5/tiago_public_ws/devel/.private/pal_statistics/lib/pkgconfig/pal_statistics.pc /home/athome23-5/tiago_public_ws/devel/lib/pkgconfig/pal_statistics.pc
+/home/athome23-5/tiago_public_ws/devel/.private/pal_statistics/share/pal_statistics/cmake/pal_statisticsConfig-version.cmake /home/athome23-5/tiago_public_ws/devel/share/pal_statistics/cmake/pal_statisticsConfig-version.cmake
+/home/athome23-5/tiago_public_ws/devel/.private/pal_statistics/share/pal_statistics/cmake/pal_statisticsConfig.cmake /home/athome23-5/tiago_public_ws/devel/share/pal_statistics/cmake/pal_statisticsConfig.cmake

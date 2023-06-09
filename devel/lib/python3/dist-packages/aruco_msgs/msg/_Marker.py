@@ -1,0 +1,1 @@
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_msgs/lib/python3/dist-packages/aruco_msgs/msg/_Marker.py

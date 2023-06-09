@@ -1,0 +1,5 @@
+tutorial4/object_detection
+/home/athome23-5/tiago_public_ws/devel/.private/object_detection/cmake.lock /home/athome23-5/tiago_public_ws/devel/./cmake.lock
+/home/athome23-5/tiago_public_ws/devel/.private/object_detection/lib/pkgconfig/object_detection.pc /home/athome23-5/tiago_public_ws/devel/lib/pkgconfig/object_detection.pc
+/home/athome23-5/tiago_public_ws/devel/.private/object_detection/share/object_detection/cmake/object_detectionConfig.cmake /home/athome23-5/tiago_public_ws/devel/share/object_detection/cmake/object_detectionConfig.cmake
+/home/athome23-5/tiago_public_ws/devel/.private/object_detection/share/object_detection/cmake/object_detectionConfig-version.cmake /home/athome23-5/tiago_public_ws/devel/share/object_detection/cmake/object_detectionConfig-version.cmake

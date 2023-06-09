@@ -1,0 +1,8 @@
+prefix=/home/athome23-5/tiago_public_ws/install
+
+Name: tmc_wrs_gazebo_worlds
+Description: Description of tmc_wrs_gazebo_worlds
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

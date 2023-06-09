@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_Detection2d.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_Detections2d.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_FaceDetection.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_FaceDetections.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_FaceThermalDetections.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_Gesture.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_LegDetections.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_Obstacle.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_Obstacles.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_PersonDetection.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_PersonDetections.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsAction.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsActionFeedback.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsActionGoal.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsActionResult.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsFeedback.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsGoal.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizeObjectsResult.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizedActions.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizedObject.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RecognizedObjectArray.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_RotatedDetection2d.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_TexturedObjectDetection.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/_WaveDetection.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/msg/__init__.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_AddTexturedObject.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_ChangeObjectRecognizerModel.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_Recognizer.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_SelectTexturedObject.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_SetDatabase.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_StartEnrollment.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/_StopEnrollment.py"
+  "/home/athome23-5/tiago_public_ws/devel/.private/pal_detection_msgs/lib/python3/dist-packages/pal_detection_msgs/srv/__init__.py"
+  "CMakeFiles/pal_detection_msgs_generate_messages_py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/pal_detection_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

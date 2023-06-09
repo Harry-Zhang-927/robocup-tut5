@@ -1,0 +1,1 @@
+/home/athome23-5/tiago_public_ws/devel/.private/dynamic_introspection/share/roseus/ros/dynamic_introspection/msg/BoolParameter.l

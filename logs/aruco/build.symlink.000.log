@@ -1,0 +1,4 @@
+Symlinking /home/athome23-5/tiago_public_ws/devel/lib/libaruco.so
+Symlinking /home/athome23-5/tiago_public_ws/devel/lib/pkgconfig/aruco.pc
+Symlinking /home/athome23-5/tiago_public_ws/devel/share/aruco/cmake/arucoConfig.cmake
+Symlinking /home/athome23-5/tiago_public_ws/devel/share/aruco/cmake/arucoConfig-version.cmake

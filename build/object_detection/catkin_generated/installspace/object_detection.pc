@@ -1,0 +1,8 @@
+prefix=/home/athome23-5/tiago_public_ws/install
+
+Name: object_detection
+Description: Description of object_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

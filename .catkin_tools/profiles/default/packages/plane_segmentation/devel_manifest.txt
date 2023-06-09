@@ -1,0 +1,7 @@
+tutorial4/plane_segmentation
+/home/athome23-5/tiago_public_ws/devel/.private/plane_segmentation/cmake.lock /home/athome23-5/tiago_public_ws/devel/./cmake.lock
+/home/athome23-5/tiago_public_ws/devel/.private/plane_segmentation/lib/libplane_segmentation.so /home/athome23-5/tiago_public_ws/devel/lib/libplane_segmentation.so
+/home/athome23-5/tiago_public_ws/devel/.private/plane_segmentation/lib/pkgconfig/plane_segmentation.pc /home/athome23-5/tiago_public_ws/devel/lib/pkgconfig/plane_segmentation.pc
+/home/athome23-5/tiago_public_ws/devel/.private/plane_segmentation/lib/plane_segmentation/plane_segmentation_node /home/athome23-5/tiago_public_ws/devel/lib/plane_segmentation/plane_segmentation_node
+/home/athome23-5/tiago_public_ws/devel/.private/plane_segmentation/share/plane_segmentation/cmake/plane_segmentationConfig-version.cmake /home/athome23-5/tiago_public_ws/devel/share/plane_segmentation/cmake/plane_segmentationConfig-version.cmake
+/home/athome23-5/tiago_public_ws/devel/.private/plane_segmentation/share/plane_segmentation/cmake/plane_segmentationConfig.cmake /home/athome23-5/tiago_public_ws/devel/share/plane_segmentation/cmake/plane_segmentationConfig.cmake

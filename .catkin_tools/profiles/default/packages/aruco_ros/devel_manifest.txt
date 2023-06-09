@@ -1,0 +1,16 @@
+aruco_ros/aruco_ros
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/cmake.lock /home/athome23-5/tiago_public_ws/devel/./cmake.lock
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/lib/libaruco_ros_utils.so /home/athome23-5/tiago_public_ws/devel/lib/libaruco_ros_utils.so
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/lib/python3/dist-packages/aruco_ros/__init__.py /home/athome23-5/tiago_public_ws/devel/lib/python3/dist-packages/aruco_ros/__init__.py
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/lib/python3/dist-packages/aruco_ros/cfg/__init__.py /home/athome23-5/tiago_public_ws/devel/lib/python3/dist-packages/aruco_ros/cfg/__init__.py
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/lib/python3/dist-packages/aruco_ros/cfg/ArucoThresholdConfig.py /home/athome23-5/tiago_public_ws/devel/lib/python3/dist-packages/aruco_ros/cfg/ArucoThresholdConfig.py
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/lib/pkgconfig/aruco_ros.pc /home/athome23-5/tiago_public_ws/devel/lib/pkgconfig/aruco_ros.pc
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/lib/aruco_ros/single /home/athome23-5/tiago_public_ws/devel/lib/aruco_ros/single
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/lib/aruco_ros/double /home/athome23-5/tiago_public_ws/devel/lib/aruco_ros/double
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/lib/aruco_ros/marker_publisher /home/athome23-5/tiago_public_ws/devel/lib/aruco_ros/marker_publisher
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/share/aruco_ros/cmake/aruco_rosConfig.cmake /home/athome23-5/tiago_public_ws/devel/share/aruco_ros/cmake/aruco_rosConfig.cmake
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/share/aruco_ros/cmake/aruco_rosConfig-version.cmake /home/athome23-5/tiago_public_ws/devel/share/aruco_ros/cmake/aruco_rosConfig-version.cmake
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/share/aruco_ros/docs/ArucoThresholdConfig.dox /home/athome23-5/tiago_public_ws/devel/share/aruco_ros/docs/ArucoThresholdConfig.dox
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/share/aruco_ros/docs/ArucoThresholdConfig-usage.dox /home/athome23-5/tiago_public_ws/devel/share/aruco_ros/docs/ArucoThresholdConfig-usage.dox
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/share/aruco_ros/docs/ArucoThresholdConfig.wikidoc /home/athome23-5/tiago_public_ws/devel/share/aruco_ros/docs/ArucoThresholdConfig.wikidoc
+/home/athome23-5/tiago_public_ws/devel/.private/aruco_ros/include/aruco_ros/ArucoThresholdConfig.h /home/athome23-5/tiago_public_ws/devel/include/aruco_ros/ArucoThresholdConfig.h

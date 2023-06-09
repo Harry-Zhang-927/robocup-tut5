@@ -1,0 +1,1 @@
+/home/athome23-5/tiago_public_ws/devel/.private/temperature_sensor_controller/lib/python3/dist-packages/temperature_sensor_controller/msg/__init__.py

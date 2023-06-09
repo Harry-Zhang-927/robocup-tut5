@@ -1,0 +1,7 @@
+ros_control/controller_manager
+/home/athome23-5/tiago_public_ws/devel/.private/controller_manager/cmake.lock /home/athome23-5/tiago_public_ws/devel/./cmake.lock
+/home/athome23-5/tiago_public_ws/devel/.private/controller_manager/lib/libcontroller_manager.so /home/athome23-5/tiago_public_ws/devel/lib/libcontroller_manager.so
+/home/athome23-5/tiago_public_ws/devel/.private/controller_manager/lib/python3/dist-packages/controller_manager/__init__.py /home/athome23-5/tiago_public_ws/devel/lib/python3/dist-packages/controller_manager/__init__.py
+/home/athome23-5/tiago_public_ws/devel/.private/controller_manager/lib/pkgconfig/controller_manager.pc /home/athome23-5/tiago_public_ws/devel/lib/pkgconfig/controller_manager.pc
+/home/athome23-5/tiago_public_ws/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig.cmake /home/athome23-5/tiago_public_ws/devel/share/controller_manager/cmake/controller_managerConfig.cmake
+/home/athome23-5/tiago_public_ws/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig-version.cmake /home/athome23-5/tiago_public_ws/devel/share/controller_manager/cmake/controller_managerConfig-version.cmake

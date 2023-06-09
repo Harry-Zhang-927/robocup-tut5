@@ -1,0 +1,8 @@
+prefix=/home/athome23-5/tiago_public_ws/install
+
+Name: tiago_2dnav
+Description: Description of tiago_2dnav
+Version: 2.1.17
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
